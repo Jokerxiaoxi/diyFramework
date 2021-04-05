@@ -158,5 +158,5 @@ public class Test {
 
 执行Test类，执行结果如下：
 
-![5252](C:\Users\Joker\Desktop\5252.png)
+![diyAOP](https://github.com/Jokerxiaoxi/images/blob/main/diyAOP.png)
 
