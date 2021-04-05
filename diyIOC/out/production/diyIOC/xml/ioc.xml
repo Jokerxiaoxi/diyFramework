@@ -1,0 +1,15 @@
+<beans>
+
+    <bean id="teacher" class="beans.Teacher">
+        <property name="name" value="王涛" />
+        <property name="cls" value="软工3班" />
+    </bean>
+
+    <bean id="student" class="beans.Student">
+        <property name="name" value="章霆" />
+        <property name="age" value="21" />
+        <property name="num" value="20181004093" />
+        <property name="teacher" ref="teacher" />
+    </bean>
+
+</beans>
