@@ -17,8 +17,8 @@ Advice 接口        	 // 继承了InvocationHandler接口
 BeforeAdvice 类    	  // 实现了Advice接口，是一个前置通知
 AfterAdvice 类    	  // 实现了Advice接口，是一个后置通知
 DiyAOP 类       		  // 生成代理类
-Test类      			  // 测试类
-StuService接口   	  // 目标对象接口
+Test类      			// 测试类
+StuService接口   	 // 目标对象接口
 StuServiceImpl   	   // 目标对象
 ```
 
