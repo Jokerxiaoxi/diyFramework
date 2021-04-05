@@ -245,6 +245,6 @@ public class Test {
 
 启动Test.java类，测试结果如下：
 
-![image-20210405173304506](C:\Users\Joker\AppData\Roaming\Typora\typora-user-images\image-20210405173304506.png)
+![diyIOC](https://gitee.com/Jokerxiaoxi996/images/blob/master/diyIOC.png)
 
 成功实现，芜湖~
